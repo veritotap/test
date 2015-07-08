@@ -1,0 +1,5 @@
+security server 
+subuntu
+security shell
+
+sudo apt-get -Y install git
